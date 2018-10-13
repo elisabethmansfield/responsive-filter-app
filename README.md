@@ -33,6 +33,8 @@
 - [Webpack](https://webpack.js.org/): Module bundler for JavaScript assets
 - [Bootstrap](https://getbootstrap.com/): CSS styles for responsive mobile apps
 - [Babel](https://babeljs.io/): Compiler for browser-compatible JavaScript
+
+#### Other
 - HTML
 - CSS
 - JavaScript
