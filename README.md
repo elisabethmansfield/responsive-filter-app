@@ -1,7 +1,7 @@
 # Documentation
 
 ### Overview
-- Name: Responsive Filter App
+- Name: **Responsive Filter App**
 - Author: Elisabeth Mansfield
 - Version: 1.0.0
 - Description: A responsive web application that allows the user to quick filter a list of things.
