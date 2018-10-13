@@ -1,6 +1,6 @@
 # Documentation
 
-### Overview
+## Overview
 - Name: **Responsive Filter App**
 - Author: Elisabeth Mansfield
 - Version: 1.0.0
