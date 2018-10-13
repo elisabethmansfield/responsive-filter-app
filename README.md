@@ -34,7 +34,7 @@
 - [Bootstrap](https://getbootstrap.com/): CSS styles for responsive mobile apps
 - [Babel](https://babeljs.io/): Compiler for browser-compatible JavaScript
 
-	#### Other
+	### Other:
 	- HTML
 	- CSS
 	- JavaScript
