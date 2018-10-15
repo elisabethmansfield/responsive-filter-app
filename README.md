@@ -10,7 +10,7 @@
 ## Installation
 1. Install the app from the command line:
 	```shell
-	git clone git://github.com/elisabethmansfield/responsive_filter_app
+	git clone https://github.com/elisabethmansfield/responsive-filter-app.git
 	cd responsive_filter_app
 	npm install
 	```
