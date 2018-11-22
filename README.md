@@ -5,7 +5,7 @@
 - Author: Elisabeth Mansfield
 - Version: 1.0.0
 - Description: A responsive web application that allows the user to quick filter a list of things.
-- Git: git://github.com/elisabethmansfield/responsive_filter_app
+- Git: git://github.com/elisabethmansfield/responsive-filter-app
 
 ## Installation
 1. Install the app from the command line:
