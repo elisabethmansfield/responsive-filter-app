@@ -17,7 +17,7 @@ export default class HomePage extends React.Component {
   constructor() {
     super();
     this.state = { 
-      base: 'USD', 
+      base: 'EUR', 
       search: ''
     };
     this.liveFilter = this.liveFilter.bind(this);              
@@ -56,7 +56,7 @@ export default class HomePage extends React.Component {
           {/* tabs */}
           <ul className="nav nav-tabs" id="myTab" role="tablist">
             <li className="nav-item" >
-              <a className="nav-link active text-center" id="usd-tab" data-toggle="tab" href="#usd" role="tab" aria-controls="usd" aria-selected="true">1 USD</a>
+              <a className="nav-link active text-center" id="eur-tab" data-toggle="tab" href="#eur" role="tab" aria-controls="eur" aria-selected="true">1 EUR</a>
             </li>
           </ul>
           
