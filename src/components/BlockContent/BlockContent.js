@@ -100,8 +100,8 @@ class BlockContent extends React.Component {
     
     return(           
       <div className="tab-content">
-        {/* USD tab */}
-        <div className="tab-pane fade show active" id="usd" role="tabpanel" aria-labelledby="usd-tab">
+        {/* EUR tab */}
+        <div className="tab-pane fade show active" id="eur" role="tabpanel" aria-labelledby="eur-tab">
           <table className="table">
             {this.tableHeader()}
             <tbody>
